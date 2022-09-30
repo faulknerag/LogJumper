@@ -1,8 +1,0 @@
-C:\Users\afaulkner\source\repos\LogJumper\LogJumper\bin\Release-x64\LogJumper.dll
-C:\Users\afaulkner\source\repos\LogJumper\LogJumper\bin\Release-x64\LogJumper.pdb
-C:\Users\afaulkner\source\repos\LogJumper\LogJumper\obj\x64\Release\Kbg.NppPluginNET.frmMyDlg.resources
-C:\Users\afaulkner\source\repos\LogJumper\LogJumper\obj\x64\Release\LogJumper.Properties.Resources.resources
-C:\Users\afaulkner\source\repos\LogJumper\LogJumper\obj\x64\Release\LogJumper.csproj.GenerateResource.cache
-C:\Users\afaulkner\source\repos\LogJumper\LogJumper\obj\x64\Release\LogJumper.csproj.CoreCompileInputs.cache
-C:\Users\afaulkner\source\repos\LogJumper\LogJumper\obj\x64\Release\LogJumper.dll
-C:\Users\afaulkner\source\repos\LogJumper\LogJumper\obj\x64\Release\LogJumper.pdb
