@@ -1,0 +1,9 @@
+C:\Users\afaulkner\source\repos\TimeJumper\TimeJumper\bin\Release-x64\TimeJumper.dll
+C:\Users\afaulkner\source\repos\TimeJumper\TimeJumper\bin\Release-x64\TimeJumper.pdb
+C:\Users\afaulkner\source\repos\TimeJumper\TimeJumper\obj\x64\Release\TimeJumper.csprojAssemblyReference.cache
+C:\Users\afaulkner\source\repos\TimeJumper\TimeJumper\obj\x64\Release\Kbg.NppPluginNET.frmMyDlg.resources
+C:\Users\afaulkner\source\repos\TimeJumper\TimeJumper\obj\x64\Release\TimeJumper.Properties.Resources.resources
+C:\Users\afaulkner\source\repos\TimeJumper\TimeJumper\obj\x64\Release\TimeJumper.csproj.GenerateResource.cache
+C:\Users\afaulkner\source\repos\TimeJumper\TimeJumper\obj\x64\Release\TimeJumper.csproj.CoreCompileInputs.cache
+C:\Users\afaulkner\source\repos\TimeJumper\TimeJumper\obj\x64\Release\TimeJumper.dll
+C:\Users\afaulkner\source\repos\TimeJumper\TimeJumper\obj\x64\Release\TimeJumper.pdb

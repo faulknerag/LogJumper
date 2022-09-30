@@ -1,0 +1,16 @@
+C:\Users\afaulkner\source\repos\TimeJumper\TimeJumper\bin\Debug\TimeJumper.dll
+C:\Users\afaulkner\source\repos\TimeJumper\TimeJumper\bin\Debug\TimeJumper.pdb
+C:\Users\afaulkner\source\repos\TimeJumper\TimeJumper\obj\x86\Debug\Kbg.NppPluginNET.frmMyDlg.resources
+C:\Users\afaulkner\source\repos\TimeJumper\TimeJumper\obj\x86\Debug\TimeJumper.Properties.Resources.resources
+C:\Users\afaulkner\source\repos\TimeJumper\TimeJumper\obj\x86\Debug\LogJumper.csproj.GenerateResource.cache
+C:\Users\afaulkner\source\repos\TimeJumper\TimeJumper\obj\x86\Debug\LogJumper.csproj.CoreCompileInputs.cache
+C:\Users\afaulkner\source\repos\TimeJumper\TimeJumper\obj\x86\Debug\TimeJumper.dll
+C:\Users\afaulkner\source\repos\TimeJumper\TimeJumper\obj\x86\Debug\TimeJumper.pdb
+C:\Users\afaulkner\source\repos\LogJumper\LogJumper\bin\Debug\LogJumper.dll
+C:\Users\afaulkner\source\repos\LogJumper\LogJumper\bin\Debug\LogJumper.pdb
+C:\Users\afaulkner\source\repos\LogJumper\LogJumper\obj\x86\Debug\Kbg.NppPluginNET.frmMyDlg.resources
+C:\Users\afaulkner\source\repos\LogJumper\LogJumper\obj\x86\Debug\LogJumper.Properties.Resources.resources
+C:\Users\afaulkner\source\repos\LogJumper\LogJumper\obj\x86\Debug\LogJumper.csproj.GenerateResource.cache
+C:\Users\afaulkner\source\repos\LogJumper\LogJumper\obj\x86\Debug\LogJumper.csproj.CoreCompileInputs.cache
+C:\Users\afaulkner\source\repos\LogJumper\LogJumper\obj\x86\Debug\LogJumper.dll
+C:\Users\afaulkner\source\repos\LogJumper\LogJumper\obj\x86\Debug\LogJumper.pdb
