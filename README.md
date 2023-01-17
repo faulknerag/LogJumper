@@ -2,14 +2,14 @@
 LogJumper is a Notepad++ extension for quickly navigating timestamped log and CSV files.
 
 LogJumper adds a navigation window with buttons to quickly jump forward and backward in time from the current cursor line. Jumps can be made in common time increments—1/6/12 hours or 1/10/30 minutes or seconds:
-![image](https://user-images.githubusercontent.com/20804273/193426634-d153d59b-5033-44db-a449-cffe5753d046.png)
+![image](Images/MainScreenshot.png?raw=true)
 
 The navigation window can be opened either by clicking the plugin's icon in the toolbar, or by clicking Plugins > LogJumper > *Log Jumper Navigation Window*:  
-![image](https://user-images.githubusercontent.com/20804273/193427228-0688a1c2-4f41-40d9-8b5c-2bc438f48315.png)
+![image](Images/PluginsMenu.png?raw=true)
 
 # Settings  
 Press the 'Settings' button to configure the plugin:
-![image](https://user-images.githubusercontent.com/20804273/193427043-62ae03c9-1d35-41fa-b519-6bea905f43a8.png)
+![image](Images/ConfigurationOptions.png?raw=true)
 
 Enter a valid expression in the 'Timestamp RegEx' field to identify the log file's timestamps. Press 'Save and Verify' to persist and use the new expression. 
 
